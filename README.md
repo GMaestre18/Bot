@@ -77,7 +77,7 @@ INSTALACIÓN:
 |       ✅       | 18+.                             |
 |       ✅       | MAIS recursos em breve 🍂        |
 
-\nUWU DE OWO
+UWU DE OWO
 
 <img src="https://i.blogs.es/461a66/nyami/1366_2000.png" />
 
