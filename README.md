@@ -44,15 +44,15 @@ INSTALACIÓN:
 | :-----------: | :------------------------------: |
 |       ✅       | Criador de adesivos                  |
 |       ✅       | Nulis                            |
-|       ✅       | Covid (Novo)                      |
-|       ✅       | Alay (novo)                       |
-|       ✅       | Letras (novo)                      |
+|       ✅       | Covid (Nuevo)                      |
+|       ✅       | Alay (Nuevo)                       |
+|       ✅       | Letras (Nuevo)                      |
 |       ✅       | Foto Anime                       |
-|       ✅       | Fotos de menina / menino (Novo)           |
+|       ✅       | Fotos de menina / menino (Nuevo)           |
 |       ✅       | Pantun                           |
 |       ✅       | Youtube Downloader               |
-|       ✅       | Quotes                           |
-|       ✅       | Nome (Novo)                       |
+|       ✅       | Citas                           |
+|       ✅       | Nombre (Nuevo)                       |
 |       ✅       | Foto Anime                       |
 |       ✅       | Casal (Novo)                   |
 |       ✅       | Oração (Novo )                    |
@@ -77,7 +77,7 @@ INSTALACIÓN:
 |       ✅       | 18+.                             |
 |       ✅       | MAIS recursos em breve 🍂        |
 
-UWU DE OWO
+\nUWU DE OWO
 
 <img src="https://i.blogs.es/461a66/nyami/1366_2000.png" />
 
